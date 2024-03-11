@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "this is practise",
-  "main": "app.js",
+
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +15,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserList":[
+    "last 2 versions"
+  ]
 }
