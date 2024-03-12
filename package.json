@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "this is practise",
 
-  "scripts": {
+  "scripts": { 
+    "start": "parcel index.html",
     "test": "jest"
   },
   "author": "vividh",
