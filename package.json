@@ -1,23 +1,21 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "description": "this is practise",
-
-  "scripts": { 
-    "start": "parcel index.html",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html ",
+    "build": "parcel build index.html ",
     "test": "jest"
   },
-  "author": "vividh",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.12.0",
-    "process": "^0.11.10"
-  },
   "dependencies": {
+    "parcel": "^2.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserList":[
-    "last 2 versions"
-  ]
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
 }
